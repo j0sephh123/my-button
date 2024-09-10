@@ -2,7 +2,7 @@
   "main": "dist/button.umd.js",
   "module": "dist/button.es.js",
   "types": "dist/index.d.ts",
-  "name": "my-button",
+  "name": "@j0sephh123/my-button",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
